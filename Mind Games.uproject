@@ -5,10 +5,17 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
+			"Name": "PaperZD",
 			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
 			]
 		}
 	]
